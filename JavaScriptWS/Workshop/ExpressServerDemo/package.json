@@ -1,0 +1,14 @@
+{
+  "name": "express-server-demo",
+  "version": "1.0.0",
+  "description": "Basic Express Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ray",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*"
+  }
+}

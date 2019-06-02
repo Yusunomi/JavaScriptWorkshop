@@ -1,0 +1,7 @@
+{
+	"name": "httpServer",
+	"version": "0.0.1",
+	"description": "Basic HTTP Server",
+	"main": "server.js",
+	"authort": "Ray"
+}
